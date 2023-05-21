@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "157dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s285fd5c09c142679e5f6834283d3c1c",
+    "_src_": "ticket.png",
+    "_top_": {
+        "type": "string",
+        "value": "113dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Image0cd5d73a5272847",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i138b776606446f9828e14d478e281e2",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0a028350f663d4b",
+    "pf": "Landing",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

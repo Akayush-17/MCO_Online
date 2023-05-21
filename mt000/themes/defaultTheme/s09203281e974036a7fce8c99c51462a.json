@@ -1,0 +1,16 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "313131ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "313131ff",
+  "font_name": "Roboto",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "400",
+  "isDefaultSkin": true,
+  "kuid": "s425b9cce5a641bc8886c9a9e0cd686b",
+  "wType": "TextField"
+}

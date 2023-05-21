@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s5a297104faf461ab159b6389fc9f32a",
+    "_top_": {
+        "type": "string",
+        "value": "347dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "315dp"
+    },
+    "android": {
+        "psp": {
+            "popupTitle": ""
+        },
+        "viewType": 0
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s3f848de16b74e5bbbdf7c6cd9f3d5a8",
+    "groupcells": false,
+    "id": "ListBox0af4ce05602e846",
+    "info": null,
+    "iphone": {},
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e8945d83610144618d8e75d454d729e8",
+    "masterdata": [
+        [
+            "lb1",
+            "Placeholder One"
+        ],
+        [
+            "lb2",
+            "Placeholder Two"
+        ],
+        [
+            "lb3",
+            "Placeholder Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlexContainer0be5eb14beceb4f",
+    "pf": "McoForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "winphone8": {},
+    "zindex": 1
+}

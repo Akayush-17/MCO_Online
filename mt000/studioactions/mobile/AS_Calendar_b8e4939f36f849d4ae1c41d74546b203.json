@@ -1,0 +1,21 @@
+{
+    "AS_Calendar_b8e4939f36f849d4ae1c41d74546b203": {
+        "id": "AS_Calendar_b8e4939f36f849d4ae1c41d74546b203",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "Landing",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4276c9481f5441e8d4c1cae218a3c44"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

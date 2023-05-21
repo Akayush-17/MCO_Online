@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s285fd5c09c142679e5f6834283d3c1c",
+    "_src_": "voltmxmp_fa_bg_1.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "imgMain",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "uabd3bd15210489c9a89b786fa14829f",
+    "name": "kony.ui.Image2",
+    "parent": "flxMenu",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "src": "voltmxmp_fa_bg_1.png"
+        },
+        "b2": {
+            "src": "voltmxmp_fa_bg_1.png"
+        },
+        "b3": {
+            "src": "voltmxmp_fa_bg_1.png"
+        }
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

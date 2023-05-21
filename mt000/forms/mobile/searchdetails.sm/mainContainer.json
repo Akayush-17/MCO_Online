@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s35fc4ece931455ca612820daca9dc2b",
+    "_top_": {
+        "type": "number",
+        "value": "2"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "57dp"
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "tabBtnOne",
+        "CopytabBtnOne0eded2a19bd7c4e"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "mainContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f5bc92aece68402890af49432dd76257",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer0af7fd24c99e641",
+    "pf": "searchdetails",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spa": {},
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,16 @@
+{
+  "android": {
+    "background_image": "simple_login_page_mobile_prototype__7_.png",
+    "bg_type": "image"
+  },
+  "background_image": "simple_login_page_mobile_prototype__7_.png",
+  "bg_type": "image",
+  "border_color": "ffffffff",
+  "iphone": {
+    "background_image": "simple_login_page_mobile_prototype__7_.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kuid": "sf1db58744ce4f11a938356e643faf8f",
+  "wType": "Form"
+}

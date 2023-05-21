@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8dff869a792478393b967be6ab3d4e3",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sb9d31db7ba445878cc005c9cbc8499e",
+    "id": "Btn4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "u0ef3651e3734d32ba6c3abc818f9c7f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_hd6abafb876f45a2b40cbf335afd0c86",
+    "parent": "Plain4Cell",
+    "pf": "userwidgetmodel",
+    "wType": "Button",
+    "zindex": 1
+}

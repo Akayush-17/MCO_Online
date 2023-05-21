@@ -1,0 +1,77 @@
+{
+    "AS_Button_a5119f38ee7944c9976e5032d25d52b1": {
+        "id": "AS_Button_a5119f38ee7944c9976e5032d25d52b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u67390378c6944bf80e3523231b2fb15"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____e22bc5ea905f4572ba1bf61a3b37d5dd",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "userwidgetmodel",
+            "widgetId": "Img1",
+            "propertyName": "src",
+            "propertyValue": "dashboard_inactive.png",
+            "itemKUID": "u67390378c6944bf80e3523231b2fb15",
+            "widgetKUID": "u4e51cd215a44b85b8165389af4fc10d",
+            "isSkinProperty": false,
+            "wType": "Image",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.Img1"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____i4136610058247fb8a8cf8e9013c691b",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "userwidgetmodel",
+            "widgetId": "Img2",
+            "propertyName": "src",
+            "propertyValue": "explore_active.png",
+            "itemKUID": "u67390378c6944bf80e3523231b2fb15",
+            "widgetKUID": "u116746dab4d40eaac1c42d757a08902",
+            "isSkinProperty": false,
+            "wType": "Image",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.Img2"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____f8fc9ce00b724ebfa8eb07b153e39d4a",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "userwidgetmodel",
+            "widgetId": "Img3",
+            "propertyName": "src",
+            "propertyValue": "search_inactive.png",
+            "itemKUID": "u67390378c6944bf80e3523231b2fb15",
+            "widgetKUID": "uaa01ebc3d1e4d41997fa84518ac5a1d",
+            "isSkinProperty": false,
+            "wType": "Image",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.Img3"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____ibb9dbd1533949d197920450e42700cc",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "userwidgetmodel",
+            "widgetId": "Img4",
+            "propertyName": "src",
+            "propertyValue": "saved_inactive.png",
+            "itemKUID": "u67390378c6944bf80e3523231b2fb15",
+            "widgetKUID": "udaf9082d1804bad88ba2f8062f6f889",
+            "isSkinProperty": false,
+            "wType": "Image",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.Img4"
+        }]
+    }
+}

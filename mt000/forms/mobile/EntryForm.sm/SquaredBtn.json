@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "5"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "se806fb5b8344a2db97815211199de31",
+    "_text_": "Save",
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s722619c19c44a439d7e431e266f0e25",
+    "id": "SquaredBtn",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e0d7647d86b341319b35429d23cd78b7",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "SquaredBorderedButton",
+    "pf": "EntryForm",
+    "wType": "Button",
+    "zindex": 1
+}

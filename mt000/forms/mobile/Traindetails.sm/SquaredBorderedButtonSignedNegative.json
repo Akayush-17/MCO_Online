@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "s97367a1036348d4a42376e76a1aa665",
+    "_text_": "login",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sd600caf885e4df9a791c5201e69cdc8",
+    "id": "SquaredBorderedButtonSignedNegative",
+    "ide_onClick": "AS_Button_jb5c1803d79d414f82963558352b5020",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f93879859dec4ec5b1b054c76891b5bb",
+    "name": "kony.ui.Button",
+    "parent": "ContainerSqrdSignedNegative",
+    "pf": "Traindetails",
+    "wType": "Button",
+    "zindex": 1
+}

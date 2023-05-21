@@ -1,0 +1,37 @@
+{
+    "AS_Button_c5b11d46782f41c6b29900959e9dae9a": {
+        "id": "AS_Button_c5b11d46782f41c6b29900959e9dae9a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "login",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ca5388fa982f44b5afa8cbd42b2ad869"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "LOADING_INDICATOR_je580245a5b34bfcb81298a23fcf4baa",
+            "selectedOption": "dismiss",
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "NAVIGATE_TO_FORM__f76f9f6b71f74ace8ccd4fe0abecf07e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Landing",
+            "formKUID": "c4276c9481f5441e8d4c1cae218a3c44",
+            "projectName": "mt000",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

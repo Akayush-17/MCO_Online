@@ -1,0 +1,87 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        1,
+        0,
+        1
+    ],
+    "_placeholder_": "Username",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s54ab31f932743bfbe0f683fd5bcbecb",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "32.50%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89.80%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "closebuttontext": "Done",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "enabled": false,
+    "focusskin": "sb66a5f031aa429190862b7f92506054",
+    "id": "tbxUsername",
+    "ide_onDone": "AS_TextField_cf402b3dc17e4740bc85fbb228406fd9",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "keyboardActionLabel": 1,
+            "showClearButton": true,
+            "showCloseButton": false,
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 1,
+    "keyboardtype": "A",
+    "kuid": "uced1b30197640739e86b7286fc8479b",
+    "maxtextlength": 30,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxLogin",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "sa76e3fe27a94ebd9cc026ef19c132c6",
+    "securetextentry": false,
+    "showclearbutton": true,
+    "showclosebutton": false,
+    "showoprogressindicator": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 3
+}

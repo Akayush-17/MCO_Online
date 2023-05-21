@@ -1,0 +1,29 @@
+{
+    "AS_Button_jb5c1803d79d414f82963558352b5020": {
+        "id": "AS_Button_jb5c1803d79d414f82963558352b5020",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Traindetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bba89076a5c54411b4b26ab3c37b6a9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__b395c4a7d0a74e16b6c5667e9cf391fc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "login",
+            "formKUID": "ca5388fa982f44b5afa8cbd42b2ad869",
+            "projectName": "mt000",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

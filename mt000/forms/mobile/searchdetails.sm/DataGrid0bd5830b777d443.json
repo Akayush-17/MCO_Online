@@ -1,0 +1,117 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTable",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "col1": "AC 3 Tier",
+            "col2": "NA"
+        },
+        {
+            "col1": "AC 2 Tier",
+            "col2": "NA"
+        },
+        {
+            "col1": "Sleeper",
+            "col2": "2"
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "197dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "47dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "463dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "270dp"
+    },
+    "canUpdateUI": true,
+    "cellBorder": "3px solid #5C5C5C",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Coach",
+            "columnHeaderType": "text",
+            "columnID": "col1",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 42,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "i4c6a8d5302241d2b0ddcc2001a64ac0"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Seats",
+            "columnHeaderType": "text",
+            "columnID": "col2",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 42,
+            "ide_onClick": null,
+            "isColumnSortable": false,
+            "kuid": "f1dfa97c5a3d44e7b6d626c476eb3397"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2"
+    ],
+    "columntype": [
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "counter": "21",
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinestyle": "solid",
+    "headerskin": "s6707eed70a14946a51e1509292ad443",
+    "id": "DataGrid0bd5830b777d443",
+    "info": null,
+    "iscustomlayout": false,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "ecc3b0d6d0864cf08625ea991054e217",
+    "name": "kony.ui.DataGrid",
+    "parent": "searchdetails",
+    "pf": "searchdetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rowalternateskin": "s2ed3897d35f49b695e9cf420edde445",
+    "rowcount": 3,
+    "rowfocusskin": "s22f4d3967dc444e9153512a80697d01",
+    "rownormalskin": "s44d9892f5ad4bc5aaa835e7ca20e8c8",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "wType": "DataGrid",
+    "zindex": 1
+}

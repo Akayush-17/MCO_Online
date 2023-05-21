@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "76dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "155dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s285fd5c09c142679e5f6834283d3c1c",
+    "_src_": "walkie_talkie.png",
+    "_top_": {
+        "type": "string",
+        "value": "282dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopyImage0b8b5f8e4464c46",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g3ed7765f32b48a8a3495a40cc106093",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0a028350f663d4b",
+    "pf": "Landing",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

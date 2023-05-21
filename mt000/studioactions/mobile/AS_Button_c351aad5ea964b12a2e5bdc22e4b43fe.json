@@ -1,0 +1,29 @@
+{
+    "AS_Button_c351aad5ea964b12a2e5bdc22e4b43fe": {
+        "id": "AS_Button_c351aad5ea964b12a2e5bdc22e4b43fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "searchdetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g5447fcb8e3d45529a63edaedc9b1b72"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__jece5f1e79ef4be9899dd2b1b95eb1a0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "McoForm",
+            "formKUID": "a4d468430622403db5155b05650303f9",
+            "projectName": "mt000",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

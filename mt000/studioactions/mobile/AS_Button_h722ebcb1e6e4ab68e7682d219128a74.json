@@ -1,0 +1,27 @@
+{
+    "AS_Button_h722ebcb1e6e4ab68e7682d219128a74": {
+        "id": "AS_Button_h722ebcb1e6e4ab68e7682d219128a74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "McoForm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a4d468430622403db5155b05650303f9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "LOADING_INDICATOR_j93e1d1c8bb34c0d96afa46e57a71c51",
+            "selectedOption": "show",
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true",
+            "text": "Submitting"
+        }]
+    }
+}

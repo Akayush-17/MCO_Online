@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100.44%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s48f2b0befdd4a0094c1fb0c4d39d572",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Calendar0gad4d34faa924f",
+        "PaddedButtonRound",
+        "mainContainer",
+        "PaddedButtonRound0e0290a62725044",
+        "FlexContainer0fc1780ea96a24a"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer0af7fd24c99e641",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f477205ce0c6446a8457bef413ec3890",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "searchdetails",
+    "pf": "searchdetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

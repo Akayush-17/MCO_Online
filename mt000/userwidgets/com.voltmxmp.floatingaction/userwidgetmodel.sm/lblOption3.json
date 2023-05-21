@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "-350%"
+    },
+    "_skin_": "s1c2f80557184bc5874f7a27c55c430e",
+    "_text_": "Send to Friend",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": "85%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblOption3",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ue9e1d2f77014942b4b7c92c57d7fb13",
+    "name": "kony.ui.Label",
+    "parent": "floatingaction",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "right": {
+                "type": "string",
+                "value": "-350%"
+            },
+            "text": "Send to Friend"
+        }
+    },
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 3
+}

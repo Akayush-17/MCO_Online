@@ -1,0 +1,124 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "orange_calendar_with_pink_dots.png",
+    "__id": "searchdetails_Calendar0gad4d34faa924f",
+    "__input": "Calendar0gad4d34faa924f",
+    "_data_": null,
+    "_date_": [
+        14,
+        5,
+        2023
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "169dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9a12bb78ab145b0afa357fa8456eb79",
+    "_startG": [
+        0,
+        5,
+        2023
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "420dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "advview": "default",
+    "android": {
+        "calendarIcon": "orange_calendar_with_pink_dots.png"
+    },
+    "calendaricon": "orange_calendar_with_pink_dots.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        14,
+        5,
+        2023,
+        15,
+        50,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 14,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        5,
+        2023
+    ],
+    "entereddate": [
+        14,
+        5,
+        2023,
+        15,
+        50,
+        0
+    ],
+    "format": "dd/MM/yyyy",
+    "formatteddate": "14/05/2023",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 15,
+    "id": "Calendar0gad4d34faa924f",
+    "info": null,
+    "iphone": {
+        "calendarIcon": "orange_calendar_with_pink_dots.png"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cfc77a95e936414c9711c48caceb2c4d",
+    "minutes": 50,
+    "month": 5,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2023",
+    "parent": "FlexContainer0af7fd24c99e641",
+    "pf": "searchdetails",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2023",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2023,
+    "zindex": 1
+}

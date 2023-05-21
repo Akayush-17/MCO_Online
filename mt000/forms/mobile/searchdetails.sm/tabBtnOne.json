@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa994915c9f5498d9191dee2cf569fd9",
+    "_text_": "Date",
+    "_width_": {
+        "type": "string",
+        "value": "97dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "85.64%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "55.85%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa994915c9f5498d9191dee2cf569fd9",
+    "id": "tabBtnOne",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e8b36efc52754443a91994495714168a",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "mainContainer",
+    "pf": "searchdetails",
+    "wType": "Button",
+    "zindex": 1
+}

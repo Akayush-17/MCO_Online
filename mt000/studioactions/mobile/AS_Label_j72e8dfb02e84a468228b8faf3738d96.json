@@ -1,0 +1,53 @@
+{
+    "AS_Label_j72e8dfb02e84a468228b8faf3738d96": {
+        "id": "AS_Label_j72e8dfb02e84a468228b8faf3738d96",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Landing",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4276c9481f5441e8d4c1cae218a3c44"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_IDENTITY_SERVICE_c1ff4c4187724ebe8b25fad64b370122",
+            "type": "INVOKE_IDENTITY_SERVICE",
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "servicename": "UserVerification",
+                "type": "identity",
+                "operationname": "logout",
+                "serviceid": "f49065a5-86b3-4fe7-8fe3-554cd7f7739f",
+                "login_type": "basic",
+                "isDeepLinkRequired": false
+            },
+            "enableMappingEditor": true,
+            "useDeviceBrowser": false,
+            "isDeepLinkRequired": false
+        }, {
+            "id": "NAVIGATE_TO_FORM__ab68e2d0c2184f5da328ee2a6f6a2c71",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "login",
+            "formKUID": "ca5388fa982f44b5afa8cbd42b2ad869",
+            "projectName": "mt000",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "INVOKE_IDENTITY_SERVICE_c1ff4c4187724ebe8b25fad64b370122",
+            "callbackType": "Success",
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

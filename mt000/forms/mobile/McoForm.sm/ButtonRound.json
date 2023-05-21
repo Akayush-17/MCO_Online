@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sbd53e23f0984e3499a49b5f8b864617",
+    "_text_": "SUBMIT",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
+    "id": "ButtonRound",
+    "ide_onClick": "AS_Button_h722ebcb1e6e4ab68e7682d219128a74",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f983161968104514a40e3aa9d4b52d45",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "PaddedButtonRound",
+    "pf": "McoForm",
+    "wType": "Button",
+    "zindex": 1
+}

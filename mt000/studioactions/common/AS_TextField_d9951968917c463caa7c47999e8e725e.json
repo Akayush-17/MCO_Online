@@ -1,0 +1,21 @@
+{
+    "AS_TextField_d9951968917c463caa7c47999e8e725e": {
+        "id": "AS_TextField_d9951968917c463caa7c47999e8e725e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b98221bd08254114bffe052c4712ba25",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//Password validation Logic\n//Length as 6 to 16\n//Password has one  alpha, one Numeric and one Special Character\n//Special Charactrs include !@#$%^&*_\n\nvar regularExpression = /^(?=.*[0-9])(?=.*[!@#$%^&*_])[a-zA-Z0-9!@#$%^&*_]{6,16}$/;\n\n//Check if the field is empty then set the text to Normal else check for Validation\nif(/^\\s*$/.test(this.view.txtPassword.text))\n  {\n        self.view.txtPassword[\"skin\"] = \"txtPasswordRoundedN\"\n  }\n  else\n  {  \n    //Check if Password has all the required validations and set skin to Normal\n\n    if (regularExpression.test(this.view.txtPassword.text))\n    {\n        self.view.txtPassword[\"skin\"] = \"txtPasswordRoundedN\"\n    }\n\n  else\n  //Check if Password is failing any required validations and set skin to Red  \n    {\n        self.view.txtPassword[\"skin\"] = \"txtPasswordRoundedRed\"\n    }\n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

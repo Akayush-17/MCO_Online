@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s6e8fee99a004da69b0d28ddf62c9252",
+    "_text_": "Signup",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7aa4e71b35a429291acb358b932f52a",
+    "id": "SquaredBorderedButtonSignedPositive",
+    "ide_onClick": "AS_Button_fad9ae1d18584402a1091e4e2c944ad8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h8be7a897f524bc9be1fc6cacf842848",
+    "name": "kony.ui.Button",
+    "parent": "ContainerSqrdSignedPositive",
+    "pf": "Traindetails",
+    "wType": "Button",
+    "zindex": 1
+}

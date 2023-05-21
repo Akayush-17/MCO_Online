@@ -1,0 +1,16 @@
+{
+  "background_color": "ebebebff",
+  "bg_type": "one",
+  "border_color": "34586eff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "34586eff",
+  "font_name": "iphoneSystem",
+  "font_size": 156,
+  "font_style": "normal",
+  "font_weight": "400",
+  "isDefaultSkin": true,
+  "kuid": "s22f4d3967dc444e9153512a80697d01",
+  "wType": "DataGrid"
+}

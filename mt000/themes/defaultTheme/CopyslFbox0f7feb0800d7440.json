@@ -1,0 +1,19 @@
+{
+  "android": {
+    "background_image": "simple_login_page_mobile_prototype__1_.png",
+    "bg_type": "image"
+  },
+  "background_image": "simple_login_page_mobile_prototype__1_.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "iphone": {
+    "background_image": "simple_login_page_mobile_prototype__1_.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kuid": "s3e18011d9314b00ac12abeb84d1c7f0",
+  "wType": "FlexContainer"
+}
